@@ -30,7 +30,7 @@
 4. To generate artwork, run command `python3 generate.py`<br />
 <br />
 You should see the following:
-![Generating Art](https://user-images.githubusercontent.com/90092708/132103682-65ee7391-33fa-45fc-8629-56f08bbd1c2e.png)
+<img src="https://user-images.githubusercontent.com/90092708/132103682-65ee7391-33fa-45fc-8629-56f08bbd1c2e.png" alt="Generating Art" width="400">
 
 ## Support & Donation
 
