@@ -129,7 +129,7 @@ def weighted_random(pairs):
 ########################################################################
 
 
-for token_id in range(START_ID, TOTAL_ARTWORK):
+for token_id in range(START_ID, TOTAL_ARTWORK + 1):
     token_id = int(token_id)
     art_name = '%s #%s' % (NAME, token_id)
     tracker = []
